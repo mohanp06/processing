@@ -1,5 +1,5 @@
 # processing
-These are the small programs that I wrote in processing software for creating nice graphics.
+This is a set of small programs that I wrote in processing software for creating nice-looking graphics.
 
 
 This repository contains small programs wrote in 'processing' to create and output various graphics.
